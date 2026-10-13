@@ -2,8 +2,10 @@
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
+  letter-spacing: 0.03em;
   color: #2e2f42;
   text-decoration: none;
+  text-transform: uppercase;
 }
 .logo-web {
   color: #4d5ae5;
