@@ -1,3 +1,7 @@
 body {
-    font-family: 'Roboto', sans-serif ;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+}
+ul {
+  list-style: none;
 }
